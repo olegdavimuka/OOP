@@ -1,0 +1,10 @@
+<resources>
+<string name="available">Available</string>
+<string name="not_available">Not available</string>
+<string name="hello">Hello!</string>
+<string name="one">1</string>
+<string name="response_code_200">Response code: 200</string>
+<string name="app_name">test2</string>
+<string name="start">Start service</string>
+<string name="stop">Stop service</string>
+</resources>

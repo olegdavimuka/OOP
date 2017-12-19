@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Graf.iml" filepath="$PROJECT_DIR$/.idea/modules/Graf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Graf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Graf_main.iml" group="Graf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Graf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Graf_test.iml" group="Graf" />
+    </modules>
+  </component>
+</project>
